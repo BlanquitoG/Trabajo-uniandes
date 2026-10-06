@@ -48,8 +48,9 @@
   contenido
 </details>
 
-
 la ecuacion de eintein es $E = mc^2$
 $$
 x = 2^4 *y
 $$
+
+![Gif_1](0e38f075f45cd1784bd80867e47a4777.gif).
